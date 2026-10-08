@@ -88,21 +88,6 @@ Technologies Used
 
 ---
 
-Project Structure
-
-CreditWise-Loan-System/
-│
-├── data/
-│   └── loan_dataset.csv
-│
-├── CreditWise_Loan_System.ipynb
-│
-├── README.md
-│
-└── requirements.txt
-
----
-
 Output
 
 The system predicts one of the following:
